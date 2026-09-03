@@ -1,0 +1,11 @@
+{
+  "name": "Control de Préstamos",
+  "description": "Sistema de gestión y control de préstamos con registro por voz, entrada manual, gestión de usuarios y almacenamiento en base de datos.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
